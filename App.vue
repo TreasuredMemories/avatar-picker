@@ -14,4 +14,6 @@
 
 <style>
 	/*每个页面公共css */
+	@import url("@/static/avatar-picker/css/icon.css");
+	@import url("@/static/avatar-picker/css/main.css");
 </style>
